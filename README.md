@@ -1,2 +1,3 @@
 # movieWebApp
-A movie web app made in R
+A movie web app made in R to brush selected movies and analyse the difference between movie ratings over time. First the data is scraped using a api from TMDB. This data is compared to the data provided my MovieLens.
+At last I made an R Shiny app that lets the user select movies from certain genres to view information about. There is also a graph with the difference beween ratings between these two rating systems over the years.
